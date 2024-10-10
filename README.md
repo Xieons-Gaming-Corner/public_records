@@ -7,5 +7,6 @@
 
 ## XGC Official Wiki
 > * The one stop Wiki that will include documentation on all XGC projects, and platforms, for ease of use of our users, and to increase the understanding on the functions, and features, or the XGC Community that many users may not be aware of. 
+> * * [XGC Wiki - Work in Progress](https://github.com/Xieons-Gaming-Corner/public_records/wiki)
 
 
