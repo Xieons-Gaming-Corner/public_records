@@ -18,6 +18,7 @@ Charizard:                       <a:sdex_charizard:1294064137244119100>
 Blue Orb (Kyogre)                <:sdex_primalOrbBlue:1294341049182851123>
 Red Orb (Groudon):               <:sdex_primalOrbRed:1294341077159116861>
 Meteor (Rayquaza):               <:sdex_meteorite:1294341027552821330>
+Necrozma (Dawn Wings):           <:sdex_necrozma_dawnWings:1294346756359716905>
 ```
 
 
@@ -80,7 +81,6 @@ Meteor (Rayquaza):               <:sdex_meteorite:1294341027552821330>
 @✅Primal Kyogre + Stone (16mo)     <:sdex_primalOrbBlue:1294341049182851123>
 @✅Rayquaza(15mo)
 @✅Kyogre (13mo)
-@✅Dawn Wings Necrozma (Fusion)
 @✅Dusk Mane Necrozma (Fusion)
 @✅ Necrozma (1yr Support)
 @✅Lunala-Gift for 9mo of Support
