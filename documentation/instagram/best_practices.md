@@ -1,4 +1,5 @@
 # Instagram Best Pratices: 
+> * [Fast Travel: XGC Wiki Mainpage](https://github.com/Xieons-Gaming-Corner/public_records/wiki)
 
 ![Image 1 of 6](https://github.com/Xieons-Gaming-Corner/public_records/blob/main/documentation/instagram/Screenshot_2024-10-11-19-31-03-761.jpg?raw=true)
 
