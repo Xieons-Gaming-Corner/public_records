@@ -1,0 +1,4 @@
+# Switch Array
+> * XSF0 - Xieon's Switch Non-Modded. Prefix ``""``
+> * XSF1 -  ``>>``
+> * XSF2 - Prefix ``++``
