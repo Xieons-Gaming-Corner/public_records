@@ -19,6 +19,7 @@ Blue Orb (Kyogre)                <:sdex_primalOrbBlue:1294341049182851123>
 Red Orb (Groudon):               <:sdex_primalOrbRed:1294341077159116861>
 Meteor (Rayquaza):               <:sdex_meteorite:1294341027552821330>
 Necrozma (Dawn Wings):           <:sdex_necrozma_dawnWings:1294346756359716905>
+Zapdos                           <:sdex_zapdos:1302044329933537451>
 ```
 
 
