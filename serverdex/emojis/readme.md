@@ -28,6 +28,10 @@ Zapdos                           <:sdex_zapdos:1302044329933537451>
 
 ```
 
+## Xieons Gaming Corner Discord Emoji Codes: 
+```
+
+```
 
 
 ## Project Phoenix Emoji Codes (Un-Completed) 
