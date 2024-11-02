@@ -24,7 +24,7 @@ Zapdos                           <:sdex_zapdos:1302044329933537451>
 
 ## Aizen Suske Emoji Code Library (Completed)
 ```
-
+Bulbasaur <a:sdex_bulbasaur:1302073120361943091>
 
 ```
 
