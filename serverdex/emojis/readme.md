@@ -22,6 +22,12 @@ Necrozma (Dawn Wings):           <:sdex_necrozma_dawnWings:1294346756359716905>
 Zapdos                           <:sdex_zapdos:1302044329933537451>
 ```
 
+## Aizen Suske Emoji Code Library (Completed)
+```
+
+
+```
+
 
 
 ## Project Phoenix Emoji Codes (Un-Completed) 
