@@ -8,7 +8,8 @@
 @✅Zamazenta-Crowned             <:sdex_zamazenta:1294065546077278240>
 @✅Primal Groudon + Stone(17mo)  <:sdex_groudon:1294340670223286298>
 @✅Primal Kyogre + Stone (16mo)  <:sdex_primalOrbBlue:1294341049182851123>
-@✅Groudon (14mo Supporter)      <:sdex_groudon:1294340670223286298>
+@✅Groudon (14mo Supporter)      <:sdex_groudon:1294340670223286298>"=
+Deciudeye                        <:sdex_0724:1316202252372807710>
 Falinks:                         <a:sdex_falinks:1293228472722002000>
 Breloom:                         <a:sdex_breloom:1293228506565574747>
 Celebi - Recently Posted:        <:sdex_celebi:1290842928100544546>
@@ -20,6 +21,7 @@ Red Orb (Groudon):               <:sdex_primalOrbRed:1294341077159116861>
 Meteor (Rayquaza):               <:sdex_meteorite:1294341027552821330>
 Necrozma (Dawn Wings):           <:sdex_necrozma_dawnWings:1294346756359716905>
 Zapdos                           <:sdex_zapdos:1302044329933537451>
+Mewtwo Tier 1:                   <:sdex_tier1_mewtwo:1314641417003602022>
 ```
 
 ## Aizen Suske Emoji Code Library (Completed)
