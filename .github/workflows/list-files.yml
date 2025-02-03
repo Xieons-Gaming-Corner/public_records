@@ -1,0 +1,29 @@
+name: List Files and Upload Artifact
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  list-files:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: List All Files and Directories
+      run: |
+        # List all files and directories, save to a text file with the current date
+        $date = (Get-Date).ToString('yyyy-MM-dd')
+        Get-ChildItem -Recurse | Select-Object FullName | Out-File "file-list-$date.txt"
+
+    - name: Upload File List as Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: file-list
+        path: "file-list-$date.txt"
